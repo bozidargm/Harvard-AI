@@ -2,7 +2,7 @@
 
 Complete "Tictactoe" project [instractions](https://cs50.harvard.edu/ai/2024/projects/0/tictactoe/)  
 
-## Before the start    
+## Background    
 
 Tic Tac Toe is one of the world's most famous games. Although the rules are simple and the number of moves is small, you still need to think carefully to avoid losing the game.  
 
