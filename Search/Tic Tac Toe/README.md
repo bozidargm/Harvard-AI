@@ -6,7 +6,7 @@ Complete "Tictactoe" project [instractions](https://cs50.harvard.edu/ai/2024/pro
 
 Tic Tac Toe is one of the world's most famous games. Although the rules are simple and the number of moves is small, you still need to think carefully to avoid losing the game.  
 
-Creating a program where the computer is one of the players can be approached in two ways: to apply a template by which the computer chooses a move or to apply ML methods by which the computer finds the best move in relation to the current state.  
+Creating a program where the computer is one of the players can be approached in two ways: to apply a pattern by which the computer chooses a move or to apply ML methods by which the computer finds the best move in relation to the current state.  
 
 ### Conditional approach  
 
